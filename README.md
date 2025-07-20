@@ -55,7 +55,7 @@ By contrast, **transfer learning** with CNNs (especially EfficientNet) yielded *
 
 Special thanks to:
 
-- **Mariem Handous** and **Ines Abdeljaoued-Tej** for their supervision and guidance.
+- **Ms. Mariem Handous** and **Ms. Ines Abdeljaoued-Tej** for their supervision and guidance.
 - **Le laboratoire BIMS (LR16IPT09)** and **le laboratoire de Rage de l’Institut Pasteur de Tunis** for providing the dataset and hosting the project.
 
 
